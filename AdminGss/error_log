@@ -1,0 +1,190 @@
+[29-Oct-2018 19:20:26 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[29-Oct-2018 19:20:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[29-Oct-2018 19:20:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[29-Oct-2018 19:20:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gitas423/public_html/AdminGss/index.php on line 260
+[29-Oct-2018 19:20:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/index.php on line 261
+[29-Oct-2018 19:20:38 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[29-Oct-2018 19:20:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gitas423/public_html/AdminGss/proses_login.php on line 10
+[29-Oct-2018 19:20:38 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/proses_login.php on line 13
+[29-Oct-2018 19:20:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[29-Oct-2018 19:22:54 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/gitas423/public_html/AdminGss/proses_login.php on line 10
+[29-Oct-2018 19:22:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gitas423/public_html/AdminGss/proses_login.php on line 10
+[29-Oct-2018 19:22:54 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/proses_login.php on line 13
+[29-Oct-2018 19:23:23 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/gitas423/public_html/AdminGss/proses_login.php on line 10
+[29-Oct-2018 19:23:23 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gitas423/public_html/AdminGss/proses_login.php on line 10
+[29-Oct-2018 19:23:23 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/proses_login.php on line 13
+[29-Oct-2018 19:28:38 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBelajar.php on line 11
+[29-Oct-2018 19:49:25 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 11
+[29-Oct-2018 21:14:03 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[29-Oct-2018 21:22:25 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[29-Oct-2018 21:30:17 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 12
+[29-Oct-2018 23:34:08 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[30-Oct-2018 00:15:40 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 12
+[30-Oct-2018 00:16:11 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 12
+[30-Oct-2018 00:16:42 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 12
+[30-Oct-2018 00:16:54 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 12
+[30-Oct-2018 00:18:27 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 00:18:48 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 00:19:03 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 00:19:47 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 12:43:01 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[30-Oct-2018 13:11:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[30-Oct-2018 13:14:02 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[30-Oct-2018 13:18:28 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[30-Oct-2018 13:32:46 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 12
+[30-Oct-2018 13:33:15 Asia/Jakarta] PHP Notice:  Undefined index: tanggal in /home/gitas423/public_html/AdminGss/ProsesAddInformasi.php on line 11
+[30-Oct-2018 13:33:15 Asia/Jakarta] PHP Notice:  Undefined index: jam in /home/gitas423/public_html/AdminGss/ProsesAddInformasi.php on line 12
+[30-Oct-2018 13:35:36 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 13:43:47 Asia/Jakarta] PHP Notice:  Undefined index: tanggal in /home/gitas423/public_html/AdminGss/ProsesAddInformasi.php on line 11
+[30-Oct-2018 13:43:47 Asia/Jakarta] PHP Notice:  Undefined index: jam in /home/gitas423/public_html/AdminGss/ProsesAddInformasi.php on line 12
+[30-Oct-2018 13:46:07 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 12
+[30-Oct-2018 13:55:27 Asia/Jakarta] PHP Notice:  Undefined index: tanggal in /home/gitas423/public_html/AdminGss/ProsesAddInformasi.php on line 11
+[30-Oct-2018 13:55:27 Asia/Jakarta] PHP Notice:  Undefined index: jam in /home/gitas423/public_html/AdminGss/ProsesAddInformasi.php on line 12
+[30-Oct-2018 14:09:13 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 14:09:52 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 14:10:22 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 14:10:35 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 14:11:38 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 14:12:16 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 14:15:32 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 14:18:11 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 14:21:13 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 14:51:18 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[30-Oct-2018 15:04:14 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[30-Oct-2018 15:06:06 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 12
+[31-Oct-2018 14:26:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[31-Oct-2018 14:26:21 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[31-Oct-2018 23:45:14 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[31-Oct-2018 23:45:14 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[31-Oct-2018 23:45:14 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gitas423/public_html/AdminGss/Belajar.php on line 197
+[31-Oct-2018 23:45:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/Belajar.php on line 198
+[31-Oct-2018 23:45:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[31-Oct-2018 23:45:25 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gitas423/public_html/AdminGss/proses_login.php on line 10
+[31-Oct-2018 23:45:25 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/proses_login.php on line 13
+[31-Oct-2018 23:45:37 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[31-Oct-2018 23:45:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gitas423/public_html/AdminGss/proses_login.php on line 10
+[31-Oct-2018 23:45:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/proses_login.php on line 13
+[31-Oct-2018 23:45:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[31-Oct-2018 23:45:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gitas423/public_html/AdminGss/proses_login.php on line 10
+[31-Oct-2018 23:45:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/proses_login.php on line 13
+[31-Oct-2018 23:46:07 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[31-Oct-2018 23:46:07 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[31-Oct-2018 23:46:07 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[31-Oct-2018 23:46:07 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gitas423/public_html/AdminGss/index.php on line 260
+[31-Oct-2018 23:46:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/index.php on line 261
+[31-Oct-2018 23:48:15 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[31-Oct-2018 23:48:15 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gitas423/public_html/AdminGss/proses_login.php on line 10
+[31-Oct-2018 23:48:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/proses_login.php on line 13
+[31-Oct-2018 23:48:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gitas423/public_html/AdminGss/koneksi.php on line 2
+[31-Oct-2018 23:48:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gitas423/public_html/AdminGss/proses_login.php on line 10
+[31-Oct-2018 23:48:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gitas423/public_html/AdminGss/proses_login.php on line 13
+[31-Oct-2018 23:50:49 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[31-Oct-2018 23:51:36 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[31-Oct-2018 23:53:00 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 13:55:44 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 15:52:00 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 15:52:28 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 16:04:39 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 18:30:11 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 21:21:28 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 21:24:48 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 21:30:30 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 21:31:09 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 21:32:03 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 21:32:42 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 21:36:26 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Nov-2018 23:02:50 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 01:44:50 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 02:01:47 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 02:03:11 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 02:03:44 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 02:04:08 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 02:08:54 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 13:06:41 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 13:18:00 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 21:13:19 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 21:14:36 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 21:30:47 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 22:46:29 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Nov-2018 23:22:07 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[03-Nov-2018 01:27:33 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[03-Nov-2018 02:26:36 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[03-Nov-2018 12:27:47 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[03-Nov-2018 15:02:57 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[03-Nov-2018 16:02:49 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[03-Nov-2018 18:38:51 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[04-Nov-2018 13:41:17 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[04-Nov-2018 17:16:43 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[04-Nov-2018 17:26:46 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[04-Nov-2018 18:44:03 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[04-Nov-2018 18:46:32 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[04-Nov-2018 20:45:50 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[04-Nov-2018 20:50:32 Asia/Jakarta] PHP Warning:  file_get_contents(http://gitasoft.id/AdminGss/firebase/notif.php?title=Tes%20Belajar&amp;message=dasdas&amp;push_type=topic): failed to open stream: HTTP request failed!  in /home/gitas423/public_html/AdminGss/ProsesAddBelajar.php on line 31
+[04-Nov-2018 20:53:28 Asia/Jakarta] PHP Warning:  file_get_contents(http://gitasoft.id/AdminGss/firebase/notif.php?title=Tes%20Belajar%20lagi&amp;message=fdsfsdf&amp;push_type=topic): failed to open stream: HTTP request failed!  in /home/gitas423/public_html/AdminGss/ProsesAddBelajar.php on line 31
+[04-Nov-2018 21:32:45 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[05-Nov-2018 01:37:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[05-Nov-2018 14:08:00 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[05-Nov-2018 21:29:00 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[07-Nov-2018 13:52:56 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[07-Nov-2018 21:43:13 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[07-Nov-2018 22:55:05 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[08-Nov-2018 11:36:46 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[09-Nov-2018 13:37:48 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[10-Nov-2018 12:40:03 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[12-Nov-2018 14:07:50 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[12-Nov-2018 14:43:13 Asia/Jakarta] PHP Warning:  file_get_contents(http://gitasoft.id/AdminGss/firebase/notif.php?topics=news&amp;message=dasd&amp;type=topics): failed to open stream: HTTP request failed!  in /home/gitas423/public_html/AdminGss/ProsesAddInformasi.php on line 73
+[12-Nov-2018 15:01:15 Asia/Jakarta] PHP Warning:  file_get_contents(http://gitasoft.id/AdminGss/firebase/notif.php?topics=news&amp;message=aaaa&amp;type=topics): failed to open stream: HTTP request failed!  in /home/gitas423/public_html/AdminGss/ProsesAddInformasi.php on line 77
+[12-Nov-2018 15:09:34 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[12-Nov-2018 19:12:34 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[13-Nov-2018 14:22:49 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[14-Nov-2018 12:12:47 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[15-Nov-2018 11:33:13 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[15-Nov-2018 13:03:00 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[15-Nov-2018 13:05:03 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[15-Nov-2018 13:32:22 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[16-Nov-2018 01:58:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[16-Nov-2018 16:26:28 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[17-Nov-2018 15:51:49 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[17-Nov-2018 15:55:57 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[17-Nov-2018 22:49:23 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[17-Nov-2018 22:57:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[22-Nov-2018 12:51:44 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[22-Nov-2018 12:52:37 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[22-Nov-2018 13:33:22 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[22-Nov-2018 13:42:31 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 12
+[22-Nov-2018 13:50:15 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditBerita.php on line 12
+[22-Nov-2018 13:54:02 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[22-Nov-2018 13:56:16 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[22-Nov-2018 13:59:13 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/gitas423/public_html/AdminGss/ProsesEditInformasi.php on line 13
+[22-Nov-2018 18:36:21 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gitas423/public_html/AdminGss/ProsesAddBelajar.php on line 14
+[22-Nov-2018 18:46:03 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gitas423/public_html/AdminGss/ProsesAddBelajar.php on line 14
+[22-Nov-2018 19:39:05 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[26-Nov-2018 17:29:13 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[30-Nov-2018 13:25:58 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Dec-2018 11:29:17 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Dec-2018 12:33:08 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Dec-2018 16:42:58 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Dec-2018 17:37:40 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Dec-2018 18:46:34 Asia/Jakarta] PHP Notice:  Undefined index: biaya_spp in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:34 Asia/Jakarta] PHP Notice:  Undefined index: biaya_spp in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:34 Asia/Jakarta] PHP Notice:  Undefined index: biaya_spp in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:34 Asia/Jakarta] PHP Notice:  Undefined index: biaya_spp in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:34 Asia/Jakarta] PHP Notice:  Undefined index: biaya_spp in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:34 Asia/Jakarta] PHP Notice:  Undefined index: biaya_spp in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:58 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:58 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:58 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:58 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:58 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:46:58 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:48:13 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:48:13 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:48:13 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:48:13 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:48:13 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 18:48:13 Asia/Jakarta] PHP Notice:  Undefined index: spp_biaya in /home/gitas423/public_html/AdminGss/Pembayaran.php on line 223
+[01-Dec-2018 20:02:53 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[01-Dec-2018 21:55:26 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Dec-2018 13:32:02 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Dec-2018 18:44:16 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
+[02-Dec-2018 19:45:53 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gitas423/public_html/AdminGss/cek_login.php on line 3
